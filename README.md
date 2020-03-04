@@ -1,2 +1,2 @@
 # SI-ESTACIONAMENTO
-Software de gerenciamento do movimento de um estacionamento.
+Projeto de informaização da gestão de entrada, saída e permanência de veículos.
